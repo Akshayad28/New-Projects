@@ -10,9 +10,6 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import CraftMethods.CraftDrivers;
-import XPathLiabrary.Xpaths;
-
 /**
  * Unit test for simple App.
  */
